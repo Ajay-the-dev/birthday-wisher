@@ -26,7 +26,7 @@
         const historyData = ref([])
 
 onMounted(async () => {
-    const response = await fetch('/src/assets/history.json')
+    const response = await fetch('/history.json')
     historyData.value = await response.json()
     store.isAM() 
 

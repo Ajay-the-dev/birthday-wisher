@@ -147,7 +147,7 @@
         const profileData = ref(null)
 
         onMounted(async () => {
-            const response = await fetch('/src/assets/profile.json')
+            const response = await fetch('/profile.json')
             
             profileData.value = await response.json()
 
