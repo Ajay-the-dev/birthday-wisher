@@ -1,0 +1,50 @@
+{
+    "name": "Gopika MJ",
+    "age": 22,
+    "birthday": "2001-08-10",
+    "gender": "Female",
+    "nationality": "Indian",
+    "profession": "Associate Systems Engineer",
+    "image": "/image.png",
+    "instagram": "gopi_rev_ti/",
+    "hobbies": [
+        "Dancing",
+        "Reading",
+        "Traveling"
+    ],
+    "character": {
+        "personality": [
+            "Kind-hearted",
+            "Optimistic",
+            "Creative",
+            "Empathetic",
+            "Independent"
+        ],
+        "attitude": [
+            "Positive outlook towards life",
+            "Always ready to help others",
+            "Believes in hard work and honesty",
+            "Open-minded and adaptable",
+            "Values friendship and loyalty"
+        ],
+        "strengths": [
+            "Excellent communication skills",
+            "Strong sense of responsibility",
+            "Quick learner",
+            "Good at problem-solving"
+        ],
+        "weaknesses": [
+            "Sometimes overthinks situations",
+            "Can be a perfectionist"
+        ]
+    },
+    "favorites": {
+        "color": "Orange",
+        "food": "Kerala Fish Curry with Rice"
+    },
+    "dreams": [
+        "Travel the world",
+        "Make a positive impact in society"
+    ],
+    "quote": "Hakuna Matata. (It means no worries for the rest of your days.)"
+}
