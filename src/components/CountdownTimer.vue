@@ -46,7 +46,7 @@ import { useCommonStore } from '../stores/common'
 const store = useCommonStore()
 
 // For now, hardcode birthday. Replace with reactive input later.
-const birthday = ref(new Date('2025-08-09T15:32:00'))
+const birthday = ref(new Date('2025-08-10T00:00:00'))
 
 const days = ref(0)
 const hours = ref(0)
